@@ -5,7 +5,6 @@
 const countProps = function(obj) {
   return Object.entries(obj).length;
 };
-
 /*
  * Вызовы функции для проверки работоспособности твоей реализации.
  */
